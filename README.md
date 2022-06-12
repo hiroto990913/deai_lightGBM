@@ -1,5 +1,5 @@
 ## 嘘をつけないマッチングアプリの価値観予測
-<img width="614" alt="image" src="https://user-images.githubusercontent.com/67566912/173238634-51a4ac2b-0536-48c0-a8d0-540e93c01f5c.png">
+![スクリーンショット (16)](https://user-images.githubusercontent.com/67566912/173238864-2e59891e-e421-400b-8e19-e98d2992f436.png)
 
 
 ## 用いるデータ
