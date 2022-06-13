@@ -11,3 +11,8 @@ my_data_1026.csvには以下の変数が格納されています。
 ## アルゴリズム
 決定木系アルゴリズムのアンサンブル学習であるLightGBMを用いる。<br>
 分類問題に適していることはもちろん、アンケートのような順序尺度データの説明変数に対応できるうえ、ランダムフォレストなどより精度が高く高速で動作したので、このモデルを用い、➀,➁,➂の価値観を同一の変数から予測するモデルを計３つ作成した。
+
+## このアプリに関する記事
+https://customers.microsoft.com/ja-jp/story/1350850044191397945-waseda-university-higher-education-azure-jp-japan
+
+https://www.itmedia.co.jp/news/spv/2103/01/news002.html
